@@ -1,0 +1,16 @@
+venv/
+.venv/
+
+.env
+
+logs/
+
+__pycache__/
+
+*.pyc
+
+.vscode/
+
+output/
+
+credentials/
